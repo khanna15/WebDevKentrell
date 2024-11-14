@@ -1,0 +1,59 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	background: #C1AEEE;
+	color: #B200E4;
+	font-family:Optima,sans-serif;Candara,sans-serif;'Arial Rounded MT Bold',sans-serif;
+}
+
+
+#container {
+	width:550px;
+	background:rgba(0,0,0,0.2);
+	margin:auto;
+	padding:15px;
+}
+
+nav a{
+ color:white;
+}
+
+figure a{
+	color:red;
+}
+
+main nav a{
+	color:Yellow;
+}
+
+a:hover{
+	color:black;
+}
+
+nav ul{
+	list-style:none;
+	padding-left:0px;
+	
+}
+
+figure(
+	margin:0px;
+}
+
+figure img{
+	width:100%;
+}

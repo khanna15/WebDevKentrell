@@ -1,0 +1,30 @@
+
+
+body {
+background-color: #C1AEEE;
+color:lightblue;
+
+}
+
+div#container {
+	background-color: darkblue; 
+	color:orange;
+
+}
+
+header{
+background-color:purple;	
+color:lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
